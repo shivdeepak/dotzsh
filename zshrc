@@ -1,4 +1,4 @@
-ENABLE_PLUGINS=("ruby")
+ENABLE_PLUGINS=("ruby" "general")
 
 PROJECT_PATH=$(dirname "$(readlink -f "$HOME/.zshrc")")
 
