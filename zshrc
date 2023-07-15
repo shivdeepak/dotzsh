@@ -1,4 +1,4 @@
-ENABLE_PLUGINS=("ruby" "general")
+ENABLE_PLUGINS=("ruby" "general" "ohmyzsh")
 
 PROJECT_PATH=$(dirname "$(readlink -f "$HOME/.zshrc")")
 
