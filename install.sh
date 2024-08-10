@@ -1,3 +1,5 @@
+git pull --recurse-submodules
+
 ZCONFIG_FILES=("zshenv" "zprofile" "zshrc" "zlogin" "zlogout")
 
 PROJECT_DIR="$(cd "$(dirname "$0")"; pwd -P)"
