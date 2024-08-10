@@ -1,4 +1,4 @@
-ENABLE_PLUGINS=("ruby")
+ENABLE_PLUGINS=()
 
 PROJECT_PATH=$(dirname "$(readlink -f "$HOME/.zlogin")")
 
