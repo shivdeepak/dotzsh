@@ -1,4 +1,4 @@
-ENABLE_PLUGINS=("ruby" "general" "ohmyzsh" "latex")
+ENABLE_PLUGINS=("ruby" "general" "ohmyzsh" "latex" "brew")
 
 PROJECT_PATH=$(dirname "$(readlink -f "$HOME/.zshrc")")
 
