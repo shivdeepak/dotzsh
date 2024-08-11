@@ -1,4 +1,4 @@
-ENABLE_PLUGINS=()
+ENABLE_PLUGINS=(rust)
 
 PROJECT_PATH=$(dirname "$(readlink -f "$HOME/.zshenv")")
 
